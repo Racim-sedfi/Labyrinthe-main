@@ -1,1 +1,16 @@
+# Fichiers objets et exécutables
 *.o
+*.out
+labyrinthe
+labyrintheBonus
+labyrintheBonusAsynchrone
+labyrintheBonusSynchrone
+labyrintheIllimite
+labyrintheLimite
+
+# IDE / éditeurs
+.idea/
+.vscode/
+
+# Système
+.DS_Store
